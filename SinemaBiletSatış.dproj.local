@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.231,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Sinema Bileti Satış Otomasyonu\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.729,C:\Users\serda\Documents\Embarcadero\Studio\Projects\Sinema Bileti Satış Otomasyonu\Unit1.dfm=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Sinema Bileti Satış Otomasyonu\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,C:\Users\serda\Documents\Embarcadero\Studio\Projects\Sinema Bileti Satış Otomasyonu\Unit4.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Sinema Bileti Satış Otomasyonu\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Sinema Bileti Satış Otomasyonu\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.729,C:\Users\serda\Documents\Embarcadero\Studio\Projects\Sinema Bileti Satış Otomasyonu\Unit1.pas=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,C:\Users\serda\Documents\Embarcadero\Studio\Projects\Sinema Bileti Satış Otomasyonu\SinemaBiletSatış.dproj=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.896,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Sinema Bileti Satış Otomasyonu\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
